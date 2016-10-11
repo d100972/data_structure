@@ -8,6 +8,7 @@
 using namespace std;
 long long m, n;
 
+
 int solve(long m, long n)
 {
 	if (m == 1)
